@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Shia0410/GithubPages/compare/v1.1.3...v1.1.4) (2024-07-02)
+
+
+### Bug Fixes
+
+* removed plugin fixed semantic release ([e01a493](https://github.com/Shia0410/GithubPages/commit/e01a4930dbb7360836c0442d3b04b731a2dc90cd))
+
 ## [1.1.3](https://github.com/Shia0410/GithubPages/compare/v1.1.2...v1.1.3) (2024-07-02)
 
 
