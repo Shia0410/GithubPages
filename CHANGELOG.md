@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Shia0410/GithubPages/compare/v1.1.2...v1.1.3) (2024-07-02)
+
+
+### Bug Fixes
+
+* url for builds ([8aa5a8f](https://github.com/Shia0410/GithubPages/commit/8aa5a8f6780a084c4d2d8a40a6656469abd48127))
+
 ## [1.1.2](https://github.com/Shia0410/GithubPages/compare/v1.1.1...v1.1.2) (2024-07-02)
 
 
