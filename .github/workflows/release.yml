@@ -28,9 +28,17 @@ jobs:
           else
             echo "Skipping commitlint as there is only one commit."
           fi
+      - name: Run Build Process
+        run: npm run build
 
       - name: Run Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+      
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          npx --no-install gh-pages -d ./build 
