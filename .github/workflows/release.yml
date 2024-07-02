@@ -1,4 +1,4 @@
-name: Release
+name: Release and Deploy
 
 on:
   push:
@@ -41,4 +41,4 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          npx --no-install gh-pages -d ./build 
+          npx --no-install gh-pages -d ./Dist 
