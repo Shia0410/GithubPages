@@ -28,6 +28,8 @@ jobs:
           else
             echo "Skipping commitlint as there is only one commit."
           fi
+      - name: Run Build Process
+        run: npm run build
 
       - name: Run Semantic Release
         env:
