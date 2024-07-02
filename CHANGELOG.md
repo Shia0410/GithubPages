@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Shia0410/GithubPages/compare/v1.1.0...v1.1.1) (2024-07-02)
+
+
+### Bug Fixes
+
+* errors for workflows ([1978abe](https://github.com/Shia0410/GithubPages/commit/1978abeb3f2617e0f82ab78c45c6129872d95723))
+
 # [1.1.0](https://github.com/Shia0410/GithubPages/compare/v1.0.0...v1.1.0) (2024-07-02)
 
 
