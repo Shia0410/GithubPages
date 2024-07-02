@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     branches:
-      - master
+      - master  # Adjust this to your main branch name
 
 jobs:
   release:
