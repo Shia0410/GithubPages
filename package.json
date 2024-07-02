@@ -19,5 +19,6 @@
     "prepare": "husky install"
   },
   "repositoryUrl": "https://github.com/Shia0410/GithubPages",
-  "name": "michael-sauerman-github-pages"
+  "name": "michael-sauerman-github-pages",
+  "version": "1.0.0"
 }
