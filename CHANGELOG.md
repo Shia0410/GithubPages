@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/Shia0410/GithubPages/compare/v1.1.4...v1.1.5) (2024-07-02)
+
+
+### Bug Fixes
+
+* github actions fix ([255764a](https://github.com/Shia0410/GithubPages/commit/255764a57ae49adb8e2e1e7a0bc0d02aee904b95))
+
 ## [1.1.4](https://github.com/Shia0410/GithubPages/compare/v1.1.3...v1.1.4) (2024-07-02)
 
 
