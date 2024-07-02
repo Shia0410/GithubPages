@@ -4,7 +4,7 @@
     "core-js": "^3.34.0",
     "roboto-fontface": "*",
     "vue": "^3.4.21",
-    "vuetify": "^3.5.8"
+    "vuetify": "^3.6.10"
   },
   "devDependencies": {
     "@babel/types": "^7.24.0",
@@ -43,7 +43,6 @@
     "vue-tsc": "^2.0.6"
   },
   "scripts": {
-    "prepare": "husky install",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
