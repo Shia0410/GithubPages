@@ -17,5 +17,6 @@
   },
   "scripts": {
     "prepare": "husky install"
-  }
+  },
+  "repositoryUrl": "https://github.com/Shia0410/GithubPages"
 }
