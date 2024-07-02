@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Shia0410/GithubPages/compare/v1.0.0...v1.1.0) (2024-07-02)
+
+
+### Features
+
+* added website components ([b2b9a2c](https://github.com/Shia0410/GithubPages/commit/b2b9a2c4a6d3e5928acf3304e4b79ffa376393ec))
+
 # 1.0.0 (2024-07-02)
 
 
